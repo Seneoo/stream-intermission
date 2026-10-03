@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>🍩 SENEH // STREAM INTERMISSION 🍩</h1>
+  <h1>🍩 SENEO // STREAM INTERMISSION 🍩</h1>
   <p><em>Professional OBS Overlay // Fluid Glass Aesthetics & Dynamic Audio</em></p>
 
   <hr style="border: 2px solid #ff3d57; width: 50%;">
